@@ -30,7 +30,8 @@ twitter_username: natlify
 github_username: natlify
 
 # Build settings
-theme: jekyll-dash
+# theme: jekyll-dash
+remote_theme: bitbrain/jekyll-dash
 plugins:
   - jekyll-feed
 # Exclude from processing.
